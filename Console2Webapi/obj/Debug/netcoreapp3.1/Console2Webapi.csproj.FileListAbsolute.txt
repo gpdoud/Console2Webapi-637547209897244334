@@ -1,0 +1,12 @@
+C:\repos\Console2Webapi\Console2Webapi\bin\Debug\netcoreapp3.1\Console2Webapi.exe
+C:\repos\Console2Webapi\Console2Webapi\bin\Debug\netcoreapp3.1\Console2Webapi.deps.json
+C:\repos\Console2Webapi\Console2Webapi\bin\Debug\netcoreapp3.1\Console2Webapi.runtimeconfig.json
+C:\repos\Console2Webapi\Console2Webapi\bin\Debug\netcoreapp3.1\Console2Webapi.runtimeconfig.dev.json
+C:\repos\Console2Webapi\Console2Webapi\bin\Debug\netcoreapp3.1\Console2Webapi.dll
+C:\repos\Console2Webapi\Console2Webapi\bin\Debug\netcoreapp3.1\Console2Webapi.pdb
+C:\repos\Console2Webapi\Console2Webapi\obj\Debug\netcoreapp3.1\Console2Webapi.AssemblyInfoInputs.cache
+C:\repos\Console2Webapi\Console2Webapi\obj\Debug\netcoreapp3.1\Console2Webapi.AssemblyInfo.cs
+C:\repos\Console2Webapi\Console2Webapi\obj\Debug\netcoreapp3.1\Console2Webapi.csproj.CoreCompileInputs.cache
+C:\repos\Console2Webapi\Console2Webapi\obj\Debug\netcoreapp3.1\Console2Webapi.dll
+C:\repos\Console2Webapi\Console2Webapi\obj\Debug\netcoreapp3.1\Console2Webapi.pdb
+C:\repos\Console2Webapi\Console2Webapi\obj\Debug\netcoreapp3.1\Console2Webapi.genruntimeconfig.cache
